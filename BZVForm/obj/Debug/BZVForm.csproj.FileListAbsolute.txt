@@ -1,0 +1,9 @@
+D:\Dev_School\BZVForm\BZVForm\BZVForm\obj\Debug\BZVForm.csprojResolveAssemblyReference.cache
+D:\Dev_School\BZVForm\BZVForm\BZVForm\obj\Debug\BZVForm.Form1.resources
+D:\Dev_School\BZVForm\BZVForm\BZVForm\obj\Debug\BZVForm.Properties.Resources.resources
+D:\Dev_School\BZVForm\BZVForm\BZVForm\obj\Debug\BZVForm.csproj.GenerateResource.Cache
+D:\Dev_School\BZVForm\BZVForm\BZVForm\bin\Debug\BZVForm.exe.config
+D:\Dev_School\BZVForm\BZVForm\BZVForm\bin\Debug\BZVForm.exe
+D:\Dev_School\BZVForm\BZVForm\BZVForm\bin\Debug\BZVForm.pdb
+D:\Dev_School\BZVForm\BZVForm\BZVForm\obj\Debug\BZVForm.exe
+D:\Dev_School\BZVForm\BZVForm\BZVForm\obj\Debug\BZVForm.pdb
